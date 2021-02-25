@@ -1,8 +1,9 @@
 ### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/salomaoluiz)
 
 Welcome to my repositories, I'm a mobile developer with a feet on DevOps, fascinated by new technologies.
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=salomaoluiz&show_icons=true&title_color=0038e5icon_color=0038e5&text_color=666&bg_color=fffff)
+![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaoluiz&show_icons=true&title_color=0038e5icon_color=0038e5&text_color=666&bg_color=fffff)
 
 ---------------------------------
 
