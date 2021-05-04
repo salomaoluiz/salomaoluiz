@@ -8,7 +8,7 @@ Welcome to my repositories, I'm a mobile developer with a feet on DevOps, fascin
 ---------------------------------
 
 - 🔭 I’m currently working on [BuyIt](https://github.com/salomaoluiz/BuyIt)
-- 🌱 I’m currently learning Kotlin, English, AI
+- 🌱 I’m currently learning English, AI, Math, Algorithms
 - 💬 Ask me about Development, Games, Animes, Movies, TV Shows.
 - 📫 How to reach me:
    >  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/salomao-luiz/)
