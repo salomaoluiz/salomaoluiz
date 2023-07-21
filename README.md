@@ -7,7 +7,6 @@ Welcome to my repositories, I'm a mobile developer with a feet on DevOps, fascin
 
 ---------------------------------
 
-- 🔭 I’m currently working on [BuyIt](https://github.com/salomaoluiz/BuyIt)
 - 🌱 I’m currently learning English, AI, Math, Algorithms
 - 💬 Ask me about Development, Games, Animes, Movies, TV Shows.
 - 📫 How to reach me:
